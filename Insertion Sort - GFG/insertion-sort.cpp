@@ -26,18 +26,17 @@ class Solution
     //Function to sort the array using insertion sort algorithm.
     void insertionSort(int arr[], int n)
     {
+        int j;
         //code here
         for(int i=0;i<n;i++)
         {
-            for(int j=i;j>0;j--)
+            j=i;
+            while(j>0 && arr[j]<arr[j-1])
             {
-                if(arr[j]<arr[j-1])
-                {
                     int temp=arr[j];
                     arr[j]=arr[j-1];
                     arr[j-1]=temp;
-                    // swap(arr[j],arr[j-1]);
-                }
+                    j--;
             }
         }
     }
