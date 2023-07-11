@@ -101,9 +101,9 @@ struct Node
 Node* reverseDLL(Node * head)
 {
     Node* newHead = NULL;
-    if (head == NULL || head->next == NULL) {
-        return head;
-    }
+    // if (head == NULL || head->next == NULL) {
+    //     return head;
+    // }
     while (head != NULL) {
         Node* next = head->next;
         head->next = newHead;
