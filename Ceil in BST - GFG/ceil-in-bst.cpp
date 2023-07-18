@@ -104,12 +104,10 @@ int findCeil(Node* root, int input) {
     int ans=-1;
     while(root!=NULL)
     { 
-        if(input<= root->data )
+        if(input==root->data) return root->data;
+        if(input< root->data )
         {
-            if(ans==-1|| root->data<ans  )
-            {
-                ans=root->data;
-            }
+            ans=root->data;
             root=root->left;
         }
         else
