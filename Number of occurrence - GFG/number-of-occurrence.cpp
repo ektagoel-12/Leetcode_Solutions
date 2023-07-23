@@ -19,13 +19,8 @@ public:
 		        int mid=(low+high)/2;
 		        if(arr[mid]==x)
 		        {
-		            if(arr[mid-1]==x)
-		            {
-		                ans=mid-1;
-		                high=mid-1;
-		            }
-		            else
-		            {return mid;}
+	                ans=mid;
+	                high=mid-1;
 		        }
 		        else if(arr[mid]>x) high=mid-1;
 		        else {low=mid+1;}
@@ -41,13 +36,8 @@ public:
 		        int mid=(low+high)/2;
 		        if(arr[mid]==x)
 		        {
-		            if(arr[mid+1]==x)
-		            {
-		                ans=mid+1;
-                        low=mid+1;
-		            }
-		            else
-		            {return mid;}
+		           ans=mid;
+                   low=mid+1;
 		        }
 		        else if(arr[mid]<x) low=mid+1;
 		        else high=mid-1;
