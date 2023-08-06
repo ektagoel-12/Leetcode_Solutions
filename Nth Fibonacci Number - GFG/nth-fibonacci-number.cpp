@@ -8,19 +8,17 @@ using namespace std;
 class Solution {
   public:
   int mod=1000000007;
-  int recur(int n,vector<int>&dp)
-  {
-      if(n<=1) return n;
-      if(dp[n]!=-1)
-      {
-          return dp[n];
-      }
-      else
-      return dp[n]=(recur(n-1,dp)+recur(n-2,dp))%mod;
-  }
     int nthFibonacci(int n){
-        vector<int>dp(n+1,-1);
-       return recur(n,dp)%mod;
+        // code here
+        int prev2=0;
+        int prev=1;
+        for(int i=2;i<=n;i++)
+        {
+            int curri=(prev+prev2)%mod;
+            prev2=prev;
+            prev=curri;
+        }
+        return prev%mod;
     }
 };
 
