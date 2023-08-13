@@ -9,20 +9,22 @@ using namespace std;
 class Solution{
 public:	
 	// calculate the maximum sum with out adjacent
-	int recur(int *arr,int n,vector<int>&dp)
-	{
-	    if(n==0) return arr[n];
-	    if(n<0) return 0;
-	    if(dp[n]!=-1) return dp[n];
-	    int pick=arr[n]+recur(arr,n-2,dp);
-	    int not_pick=0+recur(arr,n-1,dp);
-	    return dp[n]=max(pick,not_pick);
-	    
-	}
 	int findMaxSum(int *arr, int n) {
-	    // code here
-	    vector<int>dp(n+1,-1);
-	    return recur(arr,n-1,dp);
+	   int prev=arr[0];
+	   int prev2=0;
+	   for(int i=1;i<n;i++)
+	   {
+	       int take=arr[i];
+	       if(i>1)
+	       {
+	           take+=prev2;
+	       }
+	       int nottake=0+prev;
+	       int curri=max(take,nottake);
+	       prev2=prev;
+	       prev=curri;
+	   }
+	    return prev;
 	}
 };
 
