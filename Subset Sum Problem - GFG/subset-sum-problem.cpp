@@ -9,23 +9,26 @@ using namespace std;
 
 class Solution{   
 public:
-    bool recur(vector<int>arr,int sum,int idx,vector<vector<int>>&dp)
-    {
-        if(sum==0) return true;
-        if(idx==0) return (arr[0]==sum);
-        if(dp[idx][sum]!=-1) return dp[idx][sum];
-        bool not_take=recur(arr,sum,idx-1,dp);
-        bool take=false;
-        if(sum>=arr[idx])
-        {
-            take=recur(arr,sum-arr[idx],idx-1,dp);
-        }
-        return dp[idx][sum]=take || not_take;
-    }
     bool isSubsetSum(vector<int>arr, int sum){
         // code here 
-        vector<vector<int>>dp(arr.size(),vector<int>(sum+1,-1));
-        return recur(arr,sum,arr.size()-1,dp);
+        int n=arr.size();
+         vector<vector<bool>> dp(n,vector<bool>(sum+1,false));
+        for(int i=0;i<n;i++) dp[i][0]=true;
+        if(arr[0]<=sum)dp[0][arr[0]]=true;
+        for(int ind=1;ind<n;ind++)
+        {
+            for(int target=1;target<=sum;target++)
+            {
+                bool not_take=dp[ind-1][target];
+                bool take=false;
+                if(target>=arr[ind])
+                {
+                    take=dp[ind-1][target-arr[ind]];
+                }
+                dp[ind][target]=take || not_take;
+            }
+        }
+        return dp[n-1][sum];
     }
 };
 
