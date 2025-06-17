@@ -11,3 +11,19 @@
 |5| [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [C++](https://github.com/ektagoel-12/Leetcode_Solutions/tree/main/cpp) | Hashtable , String | Easy|
 |6|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description) | [C++](https://github.com/ektagoel-12/Leetcode_Solutions/blob/main/cpp/Valid_Anagram.cpp) | Hashtable, string, sorting | Easy
 |7|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [C++](https://github.com/ektagoel-12/Leetcode_Solutions/blob/main/cpp/valid_sudoku.cpp) | Array, Hashtable, Matrix | Medium
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+## Depth-First Search
+|  |
+| ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+## Binary Tree
+|  |
+| ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+<!---LeetCode Topics End-->
