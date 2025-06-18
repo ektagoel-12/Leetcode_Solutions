@@ -17,13 +17,20 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
