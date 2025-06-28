@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,4 +104,5 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
