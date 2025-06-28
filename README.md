@@ -87,4 +87,20 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
