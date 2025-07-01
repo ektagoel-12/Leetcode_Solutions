@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
 |  |
@@ -122,4 +124,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
