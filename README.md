@@ -26,6 +26,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -52,6 +53,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -97,6 +99,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -134,4 +137,16 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
