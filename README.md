@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -77,12 +78,14 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0078-subsets) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
@@ -127,4 +130,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
