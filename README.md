@@ -82,6 +82,7 @@
 | [0040-combination-sum-ii](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0078-subsets) |
+| [1127-last-stone-weight](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1127-last-stone-weight) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
