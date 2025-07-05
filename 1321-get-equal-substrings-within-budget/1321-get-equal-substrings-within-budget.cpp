@@ -4,13 +4,12 @@ public:
         int l=0,r=0,ans=0,sum=0;
         for(r=0;r<s.length();r++){
             sum+= abs(s[r]-t[r]);
-            while(sum>maxCost){
+            if(sum>maxCost){
                 sum-=abs(s[l]- t[l]);
                 l++;
             }
-            ans=max(ans,r-l+1);
         }
-        return ans;
+        return r-l;
 
     }
 };
