@@ -71,6 +71,7 @@
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
+| [1321-get-equal-substrings-within-budget](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Hash Function
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1321-get-equal-substrings-within-budget](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
@@ -140,6 +142,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -168,6 +171,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
