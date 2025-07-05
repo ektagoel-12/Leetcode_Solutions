@@ -83,6 +83,7 @@
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0078-subsets) |
 | [1127-last-stone-weight](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1127-last-stone-weight) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
@@ -136,6 +137,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
