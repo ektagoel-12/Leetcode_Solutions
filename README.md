@@ -86,6 +86,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1127-last-stone-weight](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1127-last-stone-weight) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
@@ -107,6 +108,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1321-get-equal-substrings-within-budget) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +152,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Design
 |  |
