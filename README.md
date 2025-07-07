@@ -89,6 +89,7 @@
 | [0040-combination-sum-ii](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0303-range-sum-query-immutable](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1127-last-stone-weight](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1127-last-stone-weight) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -186,6 +188,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
