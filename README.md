@@ -90,6 +90,7 @@
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0303-range-sum-query-immutable](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1127-last-stone-weight](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1127-last-stone-weight) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -102,6 +103,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
