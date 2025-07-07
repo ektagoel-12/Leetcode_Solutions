@@ -89,6 +89,7 @@
 | [0040-combination-sum-ii](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0303-range-sum-query-immutable](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Design
