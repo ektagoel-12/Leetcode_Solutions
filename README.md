@@ -21,6 +21,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -50,6 +51,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Recursion
 |  |
 | ------- |
@@ -164,6 +168,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -188,4 +193,8 @@
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
