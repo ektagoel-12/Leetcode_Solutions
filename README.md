@@ -88,6 +88,7 @@
 | [0039-combination-sum](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0303-range-sum-query-immutable](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -205,4 +206,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
