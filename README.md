@@ -125,6 +125,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
@@ -141,6 +142,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Backtracking
