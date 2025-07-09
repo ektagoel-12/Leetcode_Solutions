@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -139,6 +140,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/ektagoel-12/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Recursion
